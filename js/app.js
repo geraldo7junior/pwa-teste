@@ -1,4 +1,4 @@
-const API_URL = 'https://node-teste-oqrk.onrender.com';
+const API_URL = 'https://node-teste-oqrk.onrender.com/api/complaints';
 
 document.getElementById('complaintForm').addEventListener('submit', async (e) => {
     e.preventDefault();
